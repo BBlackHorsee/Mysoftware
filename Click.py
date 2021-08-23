@@ -1,0 +1,2 @@
+name = "click"
+print(name)
